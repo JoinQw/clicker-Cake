@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db1baf637c16984fb734a2acbeb0f6c, type: 3}
+  m_Name: Simple Cake
+  m_EditorClassIdentifier: 
+  _cake: {fileID: 5998366282949002182, guid: 2dc240c7f330de54e8b0496bd82e5e0b, type: 3}
+  _label: "\u041F\u0440\u043E\u0441\u0442\u043E\u0439"
+  _icon: {fileID: 0}
+  _price: 200
+  _isBuy: 1

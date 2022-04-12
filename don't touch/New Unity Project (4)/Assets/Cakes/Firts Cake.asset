@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0db1baf637c16984fb734a2acbeb0f6c, type: 3}
+  m_Name: Firts Cake
+  m_EditorClassIdentifier: 
+  _cake: {fileID: 4986147263562701562, guid: c4447d52d718f854f9c182050dc98461, type: 3}
+  _label: "\u041A\u0440\u0443\u0442\u043E\u0439"
+  _icon: {fileID: 0}
+  _price: 300
+  _isBuy: 1
